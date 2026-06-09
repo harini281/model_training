@@ -201,4 +201,91 @@ Through this project, I learned:
 ## Conclusion
 
 This project provided practical experience in solving a real-world classification problem using machine learning. The Decision Tree model was trained to predict passenger survival on the Titanic dataset, and its performance was evaluated using training accuracy, testing accuracy, and a confusion matrix. This project strengthened my understanding of supervised learning, classification algorithms, and model evaluation techniques.
+# Breast Cancer Classification using Random Forest
+
+## Project Overview
+
+This project demonstrates a supervised machine learning classification task using the Breast Cancer Wisconsin Dataset. The objective is to predict whether a tumor is malignant (cancerous) or benign (non-cancerous) based on various medical measurements.
+
+This dataset is commonly used in machine learning for binary classification problems and provides an excellent example of applying predictive analytics in healthcare.
+
+## Dataset Information
+
+* Dataset Name: Breast Cancer Wisconsin Dataset
+* Total Records: 569 samples
+* Total Features: 30 numerical features
+* Learning Type: Supervised Learning
+* Problem Type: Binary Classification
+
+### Target Classes
+
+* Malignant
+* Benign
+
+## Algorithm Used
+
+### Random Forest Classifier
+
+Random Forest is an ensemble machine learning algorithm that combines multiple decision trees to improve prediction accuracy and reduce overfitting. It is widely used because of its strong performance and robustness.
+
+## Machine Learning Workflow
+
+1. Load the Breast Cancer dataset from Scikit-learn.
+2. Explore the dataset structure and features.
+3. Split the dataset into training and testing sets.
+4. Train the Random Forest Classifier.
+5. Generate predictions on unseen test data.
+6. Evaluate model performance using accuracy scores and a confusion matrix.
+7. Analyze the results and model effectiveness.
+
+## Model Evaluation
+
+### Training Accuracy
+
+* XX.XX%
+
+### Testing Accuracy
+
+* XX.XX%
+
+### Confusion Matrix
+
+A confusion matrix was used to evaluate the classification performance of the model.
+
+The confusion matrix helps identify:
+
+* Correct malignant predictions
+* Correct benign predictions
+* False positive classifications
+* False negative classifications
+
+This provides a deeper understanding of model performance beyond accuracy alone.
+
+## Technologies Used
+
+* Python
+* Scikit-learn
+* Pandas
+* NumPy
+* Matplotlib
+
+## Key Learning Outcomes
+
+Through this project, I learned:
+
+* How to use built-in datasets from Scikit-learn.
+* How Random Forest algorithms work.
+* The importance of training and testing datasets.
+* How to evaluate classification models.
+* How to interpret confusion matrices.
+* The advantages of ensemble learning techniques.
+
+## Conclusion
+
+This project provided hands-on experience with machine learning classification using the Random Forest algorithm. The model was trained to classify tumors as malignant or benign and evaluated using training accuracy, testing accuracy, and a confusion matrix. The results demonstrated the effectiveness of Random Forest for solving classification problems and strengthened my understanding of supervised learning techniques.
+
+
+<img width="308" height="137" alt="image" src="https://github.com/user-attachments/assets/f93edca3-d6b2-42e2-871e-ad6ed2877c1f" />
+
+S<img width="634" height="548" alt="image" src="https://github.com/user-attachments/assets/caafd886-bd4b-4dca-b829-6e755b60a817" />
 
