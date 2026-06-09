@@ -22,6 +22,12 @@ A rule-based chatbot responds using predefined rules, while a machine learning c
 
 # Iris Dataset Classification using K-Nearest Neighbors (KNN)
 
+<img width="584" height="352" alt="image" src="https://github.com/user-attachments/assets/3a7d7a42-62cb-4da3-9a47-e541e9a194f8" />
+
+
+<img width="489" height="299" alt="image" src="https://github.com/user-attachments/assets/f4ce2bc5-c4c1-4c8b-8fd4-1a77843111cb" />
+
+
 ## Project Overview
 
 This project demonstrates a supervised machine learning classification task using the Iris Dataset, one of the most popular datasets for beginners in machine learning.
