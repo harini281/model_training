@@ -111,7 +111,8 @@ Through this project, I learned:
 This project provided a practical introduction to machine learning classification. Using the KNN algorithm, the model achieved strong predictive performance on the Iris Dataset. The confusion matrix and accuracy scores confirmed the effectiveness of the trained model and helped build a deeper understanding of machine learning evaluation techniques.
 
 
-##Titanic Survival Prediction using Decision Tree
+#Titanic Survival Prediction using Decision Tree
+
 <img width="504" height="276" alt="image" src="https://github.com/user-attachments/assets/e6d64376-11c1-441d-ac27-a2487f6c9aeb" />
 
 <img width="634" height="552" alt="image" src="https://github.com/user-attachments/assets/d765391b-4ed8-4dce-a3a5-a6e99b5a25e7" />
